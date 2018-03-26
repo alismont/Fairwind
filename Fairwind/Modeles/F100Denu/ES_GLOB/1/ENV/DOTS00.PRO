@@ -1,0 +1,12 @@
+[GENERAL]
+VerStr=V8.2
+Ver=V008.008
+SubVer=V000
+Scope=ENV
+Name=5A9560A2-C0ABDC-3D6C-VMZOULOU
+Recovery=0
+Alteration=0
+UndoRedo=0
+[TIMESTAMP]
+Date=27.2.2018
+Time=14:44:02
