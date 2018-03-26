@@ -1,0 +1,12 @@
+[GENERAL]
+VerStr=V8.2
+Ver=V008.008
+SubVer=V000
+Scope=ENV
+Name=5909C1A4-35B563-18BE-VMWIN10ENGIE
+Recovery=0
+Alteration=0
+UndoRedo=0
+[TIMESTAMP]
+Date=3.5.2017
+Time=13:40:20

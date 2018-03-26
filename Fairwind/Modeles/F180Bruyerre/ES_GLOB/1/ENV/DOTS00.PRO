@@ -1,0 +1,12 @@
+[GENERAL]
+VerStr=V8.2
+Ver=V008.008
+SubVer=V000
+Scope=ENV
+Name=59286E2C-AC051-18BE-VMWIN10ENGIE
+Recovery=0
+Alteration=0
+UndoRedo=0
+[TIMESTAMP]
+Date=26.5.2017
+Time=20:04:28

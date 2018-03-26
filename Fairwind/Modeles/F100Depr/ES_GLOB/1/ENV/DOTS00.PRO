@@ -1,0 +1,12 @@
+[GENERAL]
+VerStr=V8.2
+Ver=V008.008
+SubVer=V000
+Scope=ENV
+Name=5A707568-72F5B5-18BE-VMZOULOU
+Recovery=0
+Alteration=0
+UndoRedo=0
+[TIMESTAMP]
+Date=30.1.2018
+Time=14:38:48

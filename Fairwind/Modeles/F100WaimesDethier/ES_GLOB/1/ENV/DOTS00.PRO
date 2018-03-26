@@ -1,0 +1,12 @@
+[GENERAL]
+VerStr=V8.2
+Ver=V008.008
+SubVer=V000
+Scope=ENV
+Name=59E5D078-908CE-18BE-VMWIN10ENGIE
+Recovery=0
+Alteration=0
+UndoRedo=0
+[TIMESTAMP]
+Date=17.10.2017
+Time=11:42:16
